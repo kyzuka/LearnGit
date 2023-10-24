@@ -1,5 +1,16 @@
 This is Member Controller.txt
 
-I. Master Data
+I. Master Data (Nang BT account)
  1. Get Master Data
  2. Get Consultant Fee and Surcharge Fee
+ 3. Get Timeslot
+ 4. Get Reservation Timeslots
+ 5. Get Medication 
+
+II. Profile by (Karyk account)
+ 1. Register
+ 2. Login
+
+III. Profile by (Dragon account)
+ 1. Create Booking
+ 2. Get Booking Detail
