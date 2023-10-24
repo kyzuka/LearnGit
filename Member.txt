@@ -1,8 +1,9 @@
 This is Member Controller.txt
 
-I. Master Data
+I. Master Data (Nang BT account)
  1. Get Master Data
  2. Get Consultant Fee and Surcharge Fee
+ 3. Get Timeslot
 
 II. Profile by (Karyk account)
  1. Register
