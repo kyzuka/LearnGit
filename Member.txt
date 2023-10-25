@@ -5,7 +5,8 @@ I. Master Data (Nang BT account)
  2. Get Consultant Fee and Surcharge Fee
  3. Get Timeslot
  4. Get Reservation Timeslots
- 5. Get Medication 
+ 5. Get Medication
+ 6. Get State
 
 II. Profile by (Karyk account)
  1. Register
