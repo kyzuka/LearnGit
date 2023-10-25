@@ -11,7 +11,7 @@ I. Master Data (Nang BT account)
 II. Profile by (Karyk account)
  1. Register
  2. Activate Accounts
- 3. Get Medication 
+ 3. Login (Fixed from hotfix/id-001-member-profile) 
 
 III. Profile by (Dragon account)
  1. Create Booking
