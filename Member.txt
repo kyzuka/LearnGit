@@ -13,7 +13,10 @@ II. Profile by (Karyk account)
  1. Register
  2. Activate Accounts
  3. Login (Fixed from hotfix/id-001-member-profile) 
+ 4. Get Profile (Fixed from hotfix/id-002-member-get-profile) 
 
 III. Profile by (Dragon account)
  1. Create Booking
  2. Get Booking Detail
+ 3. Get Booking Status (Working from feature/id-003-member-profile (stash)) 
+ 4. Get Active Booking (Working from feature/id-003-member-profile) 
