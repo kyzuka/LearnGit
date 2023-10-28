@@ -1,0 +1,3 @@
+/config.txt
+/Logs/*
+!/Logs/audit_trails.txt
